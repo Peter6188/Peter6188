@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, this is Peter. I am a data-driven business analyst and a flutter developer.
 
 <!--
 **Peter6188/Peter6188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
